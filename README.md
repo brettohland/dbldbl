@@ -1,12 +1,13 @@
 dbldbl - The little double exposure app with <3
 ======
 
-[![image](http://distilleryimage1.s3.amazonaws.com/63a509a4d47811e1bb23123138106a6e_6.jpg)
-](http://instagram.com/p/NaJ70_MJi5/)
+<a href="http://instagram.com/p/NaJ70_MJi5/"><img src="http://distilleryimage1.s3.amazonaws.com/63a509a4d47811e1bb23123138106a6e_6.jpg" style="float:left; margin: 5px;"></a>
 
-[![image](http://distilleryimage5.s3.amazonaws.com/313bc254d57711e2a3ec22000a9d0dfd_6.jpg)](http://instagram.com/p/akRwrxsJjN/)
+<a href="http://instagram.com/p/akRwrxsJjN/"><img src="http://distilleryimage5.s3.amazonaws.com/313bc254d57711e2a3ec22000a9d0dfd_6.jpg" style="float:left; margin: 5px;"></a>
 
-[![image](http://distilleryimage4.s3.amazonaws.com/016198e0f3a711e194a422000a1e8aa6_6.jpg)](http://instagram.com/p/PAVS0IMJrA/)
+<a href="http://instagram.com/p/PAVS0IMJrA/"><img src="http://distilleryimage4.s3.amazonaws.com/016198e0f3a711e194a422000a1e8aa6_6.jpg" style="float:left; margin: 5px;"></a>
+
+<div style="clear:both;"></div>
 
 Back in 2012/2013, with only a front-end web development background I decided that I wanted to be an iOS developer. This is my first application that I ever released.
 
